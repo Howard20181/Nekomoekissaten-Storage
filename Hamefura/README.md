@@ -1,10 +1,8 @@
 # 字幕
 
-## 中日双语
+## 一期
 
-[Web简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hamefura/Hamefura_Web_JPSC.7z)
-
-[Web繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/raw/master/Hamefura/Hamefura_Web_JPTC.7z)
+[BDRip简繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Hamefura_BD_JPCH.7z)
 
 所需字体：
 ```
