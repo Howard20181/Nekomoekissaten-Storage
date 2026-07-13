@@ -58,4 +58,8 @@ FZXS12
 腾祥嘉丽大圆GB18030 <Tensentype JiaLiDaYuanGB18030>
 ```
 
+## Season2
+
+[BD 简繁日双语字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Komi-san_S2_BD_JPCH.7z)
+
 ![](https://nekomoe.pages.dev/images/2021-10/komisan.png)
