@@ -61,6 +61,17 @@ Sitka Small Bold Italic
 微软雅黑 <Microsoft YaHei>
 ```
 
+## 傷物語-こよみヴァンプ-
+
+内含评论轨简繁中文 BDRip 字幕  
+[字幕合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Storage/releases/download/subtitle_pkg/Kizumonogatari_BD_zho.7z)
+
+所需字体：
+```
+方正兰亭圆_GBK_中 <FZLanTingYuan-DB-GBK>
+汉仪旗黑 65S <HYQiHei 65S>
+```
+
 ## 〈物語〉シリーズ オフ&モンスターシーズン
 
 内含 01-14 简繁日双语 + 评论轨简繁中文 BDRip 字幕  
