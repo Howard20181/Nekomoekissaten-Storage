@@ -1,0 +1,38 @@
+#Make sure you have both <ep> in display_name and valid filename_regex. Other wise OKP will not match your ep number.
+display_name="【喵萌奶茶屋】[物语系列 / Monogatari Series: Off & Monster Season][<ep>][忍物语][BDRip][1080p][简繁日双语][含副音轨]"
+# 1:愚, 2-6:抚, 6.5-8:业, 9-14:忍
+group_name="[喵萌奶茶屋]"
+poster="https://s2.loli.net/2024/07/07/KMIcnpBwuHE24qb.jpg"
+about="https://github.com/Nekomoekissaten-SUB"
+# Use ''' to avoid escape
+# filename_regex=''''''
+filename_regex=''' \[(?<ep>\d{2})\]\['''
+# filename_regex='''\]\[(?<ep>\d{2})\]\['''
+# filename_regex="\\]\\[(?<ep>\\d{2}\\-\\d{2})\\]\\["
+# resolution_regex='''\]\[(?<res>\d{3}|\d{4})p\]\['''
+resolution_regex=""
+tags=["Anime", "TV"]
+
+[[intro_template]]
+site="nyaa"
+name="nekomoekissaten"
+
+[[intro_template]]
+site="dmhy"
+name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgrip"
+name="喵萌奶茶屋"
+
+# [[intro_template]]
+# site="bangumi"
+# name="喵萌奶茶屋"
+
+[[intro_template]]
+site="acgnx_asia"
+name="174"
+
+# [[intro_template]]
+# site="acgnx_global"
+# name="212"
